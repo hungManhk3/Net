@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\net\\source\\repos\\HelloWorld\\Max\\Max.csproj": {}
+    "D:\\Net\\source\\repos\\HelloWorld\\Max\\Max.csproj": {}
   },
   "projects": {
-    "D:\\net\\source\\repos\\HelloWorld\\Max\\Max.csproj": {
+    "D:\\Net\\source\\repos\\HelloWorld\\Max\\Max.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\net\\source\\repos\\HelloWorld\\Max\\Max.csproj",
+        "projectUniqueName": "D:\\Net\\source\\repos\\HelloWorld\\Max\\Max.csproj",
         "projectName": "Max",
-        "projectPath": "D:\\net\\source\\repos\\HelloWorld\\Max\\Max.csproj",
+        "projectPath": "D:\\Net\\source\\repos\\HelloWorld\\Max\\Max.csproj",
         "packagesPath": "C:\\Users\\hungm\\.nuget\\packages\\",
         "outputPath": "D:\\net\\source\\repos\\HelloWorld\\Max\\obj\\",
         "projectStyle": "PackageReference",

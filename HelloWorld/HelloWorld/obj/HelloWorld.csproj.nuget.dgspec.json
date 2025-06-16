@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "D:\\Net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "D:\\Net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "D:\\Net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "D:\\Net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\hungm\\.nuget\\packages\\",
         "outputPath": "D:\\net\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
