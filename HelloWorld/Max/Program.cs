@@ -42,6 +42,7 @@ namespace Max
             if (max < số[4])
                 max = số[4];
             Console.WriteLine($"so lon nhat trong 5 so la: {max}");
+            Console.WriteLine("hehe");
 
 
         }
