@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Net\\source\\repos\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A15FB60B-2023-4A76-901E-185F73A4149A}|HelloWorld\\HelloWorld.csproj|d:\\net\\source\\repos\\helloworld\\helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A15FB60B-2023-4A76-901E-185F73A4149A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15FB60B-2023-4A76-901E-185F73A4149A}|HelloWorld\\HelloWorld.csproj|d:\\net\\source\\repos\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15FB60B-2023-4A76-901E-185F73A4149A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56415A38-F7A7-4CA4-9B62-63BDA68302AF}|Max\\Max.csproj|d:\\net\\source\\repos\\helloworld\\max\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56415A38-F7A7-4CA4-9B62-63BDA68302AF}|Max\\Max.csproj|solutionrelative:max\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld",
+              "DocumentMoniker": "D:\\net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.csproj",
+              "ToolTip": "D:\\net\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T03:05:15.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Net\\source\\repos\\HelloWorld\\Max\\Program.cs",
+              "RelativeDocumentMoniker": "Max\\Program.cs",
+              "ToolTip": "D:\\Net\\source\\repos\\HelloWorld\\Max\\Program.cs",
+              "RelativeToolTip": "Max\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T02:27:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Net\\source\\repos\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "D:\\Net\\source\\repos\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:47:36.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

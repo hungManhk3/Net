@@ -1,0 +1,15 @@
+D:\net\source\repos\HelloWorld\Max\bin\Debug\net8.0\Max.exe
+D:\net\source\repos\HelloWorld\Max\bin\Debug\net8.0\Max.deps.json
+D:\net\source\repos\HelloWorld\Max\bin\Debug\net8.0\Max.runtimeconfig.json
+D:\net\source\repos\HelloWorld\Max\bin\Debug\net8.0\Max.dll
+D:\net\source\repos\HelloWorld\Max\bin\Debug\net8.0\Max.pdb
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\Max.AssemblyInfoInputs.cache
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\Max.AssemblyInfo.cs
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\Max.csproj.CoreCompileInputs.cache
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\Max.sourcelink.json
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\Max.dll
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\refint\Max.dll
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\Max.pdb
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\Max.genruntimeconfig.cache
+D:\net\source\repos\HelloWorld\Max\obj\Debug\net8.0\ref\Max.dll
